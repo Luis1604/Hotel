@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-# xd
+# prueba git
 # Application definition
 
 INSTALLED_APPS = [
